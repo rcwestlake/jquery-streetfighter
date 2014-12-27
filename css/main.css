@@ -49,3 +49,7 @@ body {
   left: -150px;
   float: left;
 }
+
+.ryu-cool {
+	background-image: url('../images/ryu-cool.gif')
+}
